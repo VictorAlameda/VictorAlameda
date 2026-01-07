@@ -41,6 +41,7 @@ Welcome to my profile! I am a **Biology Graduate** who discovered a passion for 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorAlameda&show_icons=true&theme=radical&hide_border=true&locale=en" alt="Victor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlameda&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=VictorAlameda&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Victor's Streak" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorAlameda&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
