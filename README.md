@@ -12,19 +12,6 @@ Welcome to my profile! I am a **Biology Graduate** who discovered a passion for 
 
 ---
 
-<div align="center">
-  <h1>¡Hola! Soy Víctor Alameda 👋</h1>
-  <h3>👨‍💻 Desarrollador de Aplicaciones Multiplataforma (DAM) | 🧬 Biólogo</h3>
-</div>
-
-¡Bienvenido a mi perfil! Soy un **Graduado en Biología** que descubrió su pasión por la lógica y el código. He reconvertido mi carrera hacia el desarrollo de software, combinando mi capacidad de análisis científico con tecnologías modernas.
-
-- 🔭 Actualmente estoy trabajando en: **Waspy**, una App Android nativa para seguridad del paciente.
-- 🌱 Estoy aprendiendo: **Arquitecturas limpias, AWS y Seguridad Web**.
-- 💡 Me interesa: El desarrollo móvil, el backend robusto y los proyectos que unen ciencia y tecnología.
-
----
-
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
